@@ -13,9 +13,7 @@ A simple and user-friendly Student Management System developed using HTML, CSS, 
 
 🛠️ Technologies Used
 
-* HTML
 * CSS
-* JavaScript
 * PHP
 * MySQL
 * XAMPP
